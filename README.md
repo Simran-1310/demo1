@@ -1,4 +1,4 @@
 # demo1
 this is my first Git Repository.
 <br>
-Author- Simran Sharma
+Author- Simran (MERN Stack)
